@@ -93,6 +93,8 @@ You can also change the settings in the interactive UI
 > Validates a found discord token and then sends it to your discord webhook
 >
 > Sends all files to your discord webhook in beautiful embeds and a structured zip file
+>
+> File Pumper, modify the default stub size (default is 7mb) up to 20 gbs
 
 <a id="screenshot"></a>
 
