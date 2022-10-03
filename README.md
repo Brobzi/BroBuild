@@ -14,13 +14,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/last-commit/doener2323/doenerium?style=flat">
-<img src="https://img.shields.io/github/stars/doener2323/doenerium?color=brightgreen">
-<img src="https://img.shields.io/github/forks/doener2323/doenerium?color=brightgreen">
-</p>
 
-<p align="center">
-    <img src="https://img.shields.io/discord/1009189978087100486?color=blue&label=Discord&logo=Discord&logoColor=%5C&style=for-the-badge">
-</p>
 
 <p align="center">
   New discord: https://discord.gg/QWPMNQhf
